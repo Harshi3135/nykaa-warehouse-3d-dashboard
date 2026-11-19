@@ -1,12 +1,10 @@
-# nykaa-warehouse-3d-dashboard
 # Nykaa Warehouse 3D Dashboard
-
 
 An interactive Power BI dashboard that shows a whole warehouse in 3D. Every storage bin is colored by its status and responds to slicers, so you can see which bins are healthy, empty, expiring or expired at a glance.
 
 > **Sample data only.** All data in this project is made up for learning and portfolio purposes. It is not real Nykaa data, and the project is not affiliated with Nykaa.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## What it shows
 
@@ -49,12 +47,12 @@ Bins are named `ZONE-Rack-Level-Bin`, for example `BB-R01-L1-B01`. Levels 1-2 ar
 | `Nykaa_Warehouse_3DBI_v2.3dbi`      | Model packaged for the 3DBI Power BI visual                            |
 | `nykaa_warehouse_full.rb`           | SketchUp Ruby script that builds the whole warehouse                   |
 | `bins.txt`                          | Bin list used as input for the Ruby script                             |
-| `images/dashboard.png`              | Dashboard screenshot                                                   |
+| `dashboard.png`                     | Dashboard screenshot                                                   |
 
 ## How it was built
 
 1. **Data**: the Excel file holds the location, product, inventory and movement tables.
-2. **3D model**: in SketchUp, run `nykaa_warehouse_full.rb` (Extensions > Developer > Ruby Console, or load the script) and select `bins.txt`. It creates every bin as a named group, plus zone labels, aisle markings, floor, dock and packing area.
+2. **3D model**: in SketchUp, run `nykaa_warehouse_full.rb` and select `bins.txt`. It creates every bin as a named group, plus zone labels, aisle markings, floor, dock and packing area.
 3. **Link**: the 3DBI visual in Power BI matches each bin's `InstanceName` in the data to the group of the same name in the model, so status colors and slicers drive the 3D view.
 
 ## How to use
