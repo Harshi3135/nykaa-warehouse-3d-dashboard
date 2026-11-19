@@ -1,0 +1,577 @@
+InstanceName	ZoneCode	Zone	ZoneType	Rack	Level	Bin	Bin_Capacity_Units	Pick_Height	Bin Status Col
+SK-R01-L1-B01	SK	Skincare	Ambient	R01	1	B01	900	Golden zone	Empty
+SK-R01-L1-B02	SK	Skincare	Ambient	R01	1	B02	900	Golden zone	Empty
+SK-R01-L1-B03	SK	Skincare	Ambient	R01	1	B03	900	Golden zone	OK
+SK-R01-L1-B04	SK	Skincare	Ambient	R01	1	B04	900	Golden zone	OK
+SK-R01-L1-B05	SK	Skincare	Ambient	R01	1	B05	900	Golden zone	Empty
+SK-R01-L1-B06	SK	Skincare	Ambient	R01	1	B06	900	Golden zone	OK
+SK-R01-L2-B01	SK	Skincare	Ambient	R01	2	B01	900	Golden zone	OK
+SK-R01-L2-B02	SK	Skincare	Ambient	R01	2	B02	900	Golden zone	OK
+SK-R01-L2-B03	SK	Skincare	Ambient	R01	2	B03	900	Golden zone	OK
+SK-R01-L2-B04	SK	Skincare	Ambient	R01	2	B04	900	Golden zone	OK
+SK-R01-L2-B05	SK	Skincare	Ambient	R01	2	B05	900	Golden zone	OK
+SK-R01-L2-B06	SK	Skincare	Ambient	R01	2	B06	900	Golden zone	OK
+SK-R02-L1-B01	SK	Skincare	Ambient	R02	1	B01	900	Golden zone	Empty
+SK-R02-L1-B02	SK	Skincare	Ambient	R02	1	B02	900	Golden zone	OK
+SK-R02-L1-B03	SK	Skincare	Ambient	R02	1	B03	900	Golden zone	OK
+SK-R02-L1-B04	SK	Skincare	Ambient	R02	1	B04	900	Golden zone	OK
+SK-R02-L1-B05	SK	Skincare	Ambient	R02	1	B05	900	Golden zone	OK
+SK-R02-L1-B06	SK	Skincare	Ambient	R02	1	B06	900	Golden zone	OK
+SK-R02-L2-B01	SK	Skincare	Ambient	R02	2	B01	900	Golden zone	OK
+SK-R02-L2-B02	SK	Skincare	Ambient	R02	2	B02	900	Golden zone	OK
+SK-R02-L2-B03	SK	Skincare	Ambient	R02	2	B03	900	Golden zone	OK
+SK-R02-L2-B04	SK	Skincare	Ambient	R02	2	B04	900	Golden zone	OK
+SK-R02-L2-B05	SK	Skincare	Ambient	R02	2	B05	900	Golden zone	OK
+SK-R02-L2-B06	SK	Skincare	Ambient	R02	2	B06	900	Golden zone	OK
+SK-R03-L1-B01	SK	Skincare	Ambient	R03	1	B01	900	Golden zone	OK
+SK-R03-L1-B02	SK	Skincare	Ambient	R03	1	B02	900	Golden zone	OK
+SK-R03-L1-B03	SK	Skincare	Ambient	R03	1	B03	900	Golden zone	Empty
+SK-R03-L1-B04	SK	Skincare	Ambient	R03	1	B04	900	Golden zone	OK
+SK-R03-L1-B05	SK	Skincare	Ambient	R03	1	B05	900	Golden zone	OK
+SK-R03-L1-B06	SK	Skincare	Ambient	R03	1	B06	900	Golden zone	OK
+SK-R03-L2-B01	SK	Skincare	Ambient	R03	2	B01	900	Golden zone	OK
+SK-R03-L2-B02	SK	Skincare	Ambient	R03	2	B02	900	Golden zone	OK
+SK-R03-L2-B03	SK	Skincare	Ambient	R03	2	B03	900	Golden zone	OK
+SK-R03-L2-B04	SK	Skincare	Ambient	R03	2	B04	900	Golden zone	OK
+SK-R03-L2-B05	SK	Skincare	Ambient	R03	2	B05	900	Golden zone	OK
+SK-R03-L2-B06	SK	Skincare	Ambient	R03	2	B06	900	Golden zone	OK
+SK-R04-L1-B01	SK	Skincare	Ambient	R04	1	B01	900	Golden zone	OK
+SK-R04-L1-B02	SK	Skincare	Ambient	R04	1	B02	900	Golden zone	Empty
+SK-R04-L1-B03	SK	Skincare	Ambient	R04	1	B03	900	Golden zone	OK
+SK-R04-L1-B04	SK	Skincare	Ambient	R04	1	B04	900	Golden zone	OK
+SK-R04-L1-B05	SK	Skincare	Ambient	R04	1	B05	900	Golden zone	Empty
+SK-R04-L1-B06	SK	Skincare	Ambient	R04	1	B06	900	Golden zone	OK
+SK-R04-L2-B01	SK	Skincare	Ambient	R04	2	B01	900	Golden zone	OK
+SK-R04-L2-B02	SK	Skincare	Ambient	R04	2	B02	900	Golden zone	OK
+SK-R04-L2-B03	SK	Skincare	Ambient	R04	2	B03	900	Golden zone	OK
+SK-R04-L2-B04	SK	Skincare	Ambient	R04	2	B04	900	Golden zone	OK
+SK-R04-L2-B05	SK	Skincare	Ambient	R04	2	B05	900	Golden zone	OK
+SK-R04-L2-B06	SK	Skincare	Ambient	R04	2	B06	900	Golden zone	OK
+SK-R05-L1-B01	SK	Skincare	Ambient	R05	1	B01	900	Golden zone	OK
+SK-R05-L1-B02	SK	Skincare	Ambient	R05	1	B02	900	Golden zone	OK
+SK-R05-L1-B03	SK	Skincare	Ambient	R05	1	B03	900	Golden zone	OK
+SK-R05-L1-B04	SK	Skincare	Ambient	R05	1	B04	900	Golden zone	OK
+SK-R05-L1-B05	SK	Skincare	Ambient	R05	1	B05	900	Golden zone	OK
+SK-R05-L1-B06	SK	Skincare	Ambient	R05	1	B06	900	Golden zone	OK
+SK-R05-L2-B01	SK	Skincare	Ambient	R05	2	B01	900	Golden zone	OK
+SK-R05-L2-B02	SK	Skincare	Ambient	R05	2	B02	900	Golden zone	OK
+SK-R05-L2-B03	SK	Skincare	Ambient	R05	2	B03	900	Golden zone	OK
+SK-R05-L2-B04	SK	Skincare	Ambient	R05	2	B04	900	Golden zone	OK
+SK-R05-L2-B05	SK	Skincare	Ambient	R05	2	B05	900	Golden zone	OK
+SK-R05-L2-B06	SK	Skincare	Ambient	R05	2	B06	900	Golden zone	OK
+SK-R06-L1-B01	SK	Skincare	Ambient	R06	1	B01	900	Golden zone	Empty
+SK-R06-L1-B02	SK	Skincare	Ambient	R06	1	B02	900	Golden zone	OK
+SK-R06-L1-B03	SK	Skincare	Ambient	R06	1	B03	900	Golden zone	OK
+SK-R06-L1-B04	SK	Skincare	Ambient	R06	1	B04	900	Golden zone	OK
+SK-R06-L1-B05	SK	Skincare	Ambient	R06	1	B05	900	Golden zone	OK
+SK-R06-L1-B06	SK	Skincare	Ambient	R06	1	B06	900	Golden zone	OK
+SK-R06-L2-B01	SK	Skincare	Ambient	R06	2	B01	900	Golden zone	OK
+SK-R06-L2-B02	SK	Skincare	Ambient	R06	2	B02	900	Golden zone	OK
+SK-R06-L2-B03	SK	Skincare	Ambient	R06	2	B03	900	Golden zone	Empty
+SK-R06-L2-B04	SK	Skincare	Ambient	R06	2	B04	900	Golden zone	OK
+SK-R06-L2-B05	SK	Skincare	Ambient	R06	2	B05	900	Golden zone	OK
+SK-R06-L2-B06	SK	Skincare	Ambient	R06	2	B06	900	Golden zone	OK
+SK-R01-L3-B01	SK	Skincare	Ambient	R01	3	B01	720	Reserve	OK
+SK-R01-L3-B02	SK	Skincare	Ambient	R01	3	B02	720	Reserve	Empty
+SK-R01-L3-B03	SK	Skincare	Ambient	R01	3	B03	720	Reserve	Empty
+SK-R01-L3-B04	SK	Skincare	Ambient	R01	3	B04	720	Reserve	OK
+SK-R01-L3-B05	SK	Skincare	Ambient	R01	3	B05	720	Reserve	OK
+SK-R01-L3-B06	SK	Skincare	Ambient	R01	3	B06	720	Reserve	OK
+SK-R01-L4-B01	SK	Skincare	Ambient	R01	4	B01	720	Reserve	OK
+SK-R01-L4-B02	SK	Skincare	Ambient	R01	4	B02	720	Reserve	OK
+SK-R01-L4-B03	SK	Skincare	Ambient	R01	4	B03	720	Reserve	OK
+SK-R01-L4-B04	SK	Skincare	Ambient	R01	4	B04	720	Reserve	Empty
+SK-R01-L4-B05	SK	Skincare	Ambient	R01	4	B05	720	Reserve	OK
+SK-R01-L4-B06	SK	Skincare	Ambient	R01	4	B06	720	Reserve	OK
+SK-R02-L3-B01	SK	Skincare	Ambient	R02	3	B01	720	Reserve	OK
+SK-R02-L3-B02	SK	Skincare	Ambient	R02	3	B02	720	Reserve	OK
+SK-R02-L3-B03	SK	Skincare	Ambient	R02	3	B03	720	Reserve	OK
+SK-R02-L3-B04	SK	Skincare	Ambient	R02	3	B04	720	Reserve	OK
+SK-R02-L3-B05	SK	Skincare	Ambient	R02	3	B05	720	Reserve	OK
+SK-R02-L3-B06	SK	Skincare	Ambient	R02	3	B06	720	Reserve	OK
+SK-R02-L4-B01	SK	Skincare	Ambient	R02	4	B01	720	Reserve	OK
+SK-R02-L4-B02	SK	Skincare	Ambient	R02	4	B02	720	Reserve	OK
+SK-R02-L4-B03	SK	Skincare	Ambient	R02	4	B03	720	Reserve	OK
+SK-R02-L4-B04	SK	Skincare	Ambient	R02	4	B04	720	Reserve	OK
+SK-R02-L4-B05	SK	Skincare	Ambient	R02	4	B05	720	Reserve	OK
+SK-R02-L4-B06	SK	Skincare	Ambient	R02	4	B06	720	Reserve	OK
+SK-R03-L3-B01	SK	Skincare	Ambient	R03	3	B01	720	Reserve	OK
+SK-R03-L3-B02	SK	Skincare	Ambient	R03	3	B02	720	Reserve	OK
+SK-R03-L3-B03	SK	Skincare	Ambient	R03	3	B03	720	Reserve	OK
+SK-R03-L3-B04	SK	Skincare	Ambient	R03	3	B04	720	Reserve	OK
+SK-R03-L3-B05	SK	Skincare	Ambient	R03	3	B05	720	Reserve	OK
+SK-R03-L3-B06	SK	Skincare	Ambient	R03	3	B06	720	Reserve	OK
+SK-R03-L4-B01	SK	Skincare	Ambient	R03	4	B01	720	Reserve	OK
+SK-R03-L4-B02	SK	Skincare	Ambient	R03	4	B02	720	Reserve	OK
+SK-R03-L4-B03	SK	Skincare	Ambient	R03	4	B03	720	Reserve	OK
+SK-R03-L4-B04	SK	Skincare	Ambient	R03	4	B04	720	Reserve	OK
+SK-R03-L4-B05	SK	Skincare	Ambient	R03	4	B05	720	Reserve	OK
+SK-R03-L4-B06	SK	Skincare	Ambient	R03	4	B06	720	Reserve	OK
+SK-R04-L3-B01	SK	Skincare	Ambient	R04	3	B01	720	Reserve	OK
+SK-R04-L3-B02	SK	Skincare	Ambient	R04	3	B02	720	Reserve	OK
+SK-R04-L3-B03	SK	Skincare	Ambient	R04	3	B03	720	Reserve	OK
+SK-R04-L3-B04	SK	Skincare	Ambient	R04	3	B04	720	Reserve	Empty
+SK-R04-L3-B05	SK	Skincare	Ambient	R04	3	B05	720	Reserve	OK
+SK-R04-L3-B06	SK	Skincare	Ambient	R04	3	B06	720	Reserve	OK
+SK-R04-L4-B01	SK	Skincare	Ambient	R04	4	B01	720	Reserve	OK
+SK-R04-L4-B02	SK	Skincare	Ambient	R04	4	B02	720	Reserve	OK
+SK-R04-L4-B03	SK	Skincare	Ambient	R04	4	B03	720	Reserve	OK
+SK-R04-L4-B04	SK	Skincare	Ambient	R04	4	B04	720	Reserve	OK
+SK-R04-L4-B05	SK	Skincare	Ambient	R04	4	B05	720	Reserve	Empty
+SK-R04-L4-B06	SK	Skincare	Ambient	R04	4	B06	720	Reserve	OK
+SK-R05-L3-B01	SK	Skincare	Ambient	R05	3	B01	720	Reserve	OK
+SK-R05-L3-B02	SK	Skincare	Ambient	R05	3	B02	720	Reserve	OK
+SK-R05-L3-B03	SK	Skincare	Ambient	R05	3	B03	720	Reserve	Empty
+SK-R05-L3-B04	SK	Skincare	Ambient	R05	3	B04	720	Reserve	OK
+SK-R05-L3-B05	SK	Skincare	Ambient	R05	3	B05	720	Reserve	OK
+SK-R05-L3-B06	SK	Skincare	Ambient	R05	3	B06	720	Reserve	Empty
+SK-R05-L4-B01	SK	Skincare	Ambient	R05	4	B01	720	Reserve	OK
+SK-R05-L4-B02	SK	Skincare	Ambient	R05	4	B02	720	Reserve	OK
+SK-R05-L4-B03	SK	Skincare	Ambient	R05	4	B03	720	Reserve	OK
+SK-R05-L4-B04	SK	Skincare	Ambient	R05	4	B04	720	Reserve	OK
+SK-R05-L4-B05	SK	Skincare	Ambient	R05	4	B05	720	Reserve	OK
+SK-R05-L4-B06	SK	Skincare	Ambient	R05	4	B06	720	Reserve	OK
+SK-R06-L3-B01	SK	Skincare	Ambient	R06	3	B01	720	Reserve	OK
+SK-R06-L3-B02	SK	Skincare	Ambient	R06	3	B02	720	Reserve	OK
+SK-R06-L3-B03	SK	Skincare	Ambient	R06	3	B03	720	Reserve	OK
+SK-R06-L3-B04	SK	Skincare	Ambient	R06	3	B04	720	Reserve	OK
+SK-R06-L3-B05	SK	Skincare	Ambient	R06	3	B05	720	Reserve	OK
+SK-R06-L3-B06	SK	Skincare	Ambient	R06	3	B06	720	Reserve	Empty
+SK-R06-L4-B01	SK	Skincare	Ambient	R06	4	B01	720	Reserve	OK
+SK-R06-L4-B02	SK	Skincare	Ambient	R06	4	B02	720	Reserve	OK
+SK-R06-L4-B03	SK	Skincare	Ambient	R06	4	B03	720	Reserve	Empty
+SK-R06-L4-B04	SK	Skincare	Ambient	R06	4	B04	720	Reserve	OK
+SK-R06-L4-B05	SK	Skincare	Ambient	R06	4	B05	720	Reserve	OK
+SK-R06-L4-B06	SK	Skincare	Ambient	R06	4	B06	720	Reserve	OK
+MU-R01-L3-B01	MU	Makeup	Ambient	R01	3	B01	560	Reserve	OK
+MU-R01-L3-B02	MU	Makeup	Ambient	R01	3	B02	560	Reserve	OK
+MU-R01-L3-B03	MU	Makeup	Ambient	R01	3	B03	560	Reserve	OK
+MU-R01-L3-B04	MU	Makeup	Ambient	R01	3	B04	560	Reserve	Empty
+MU-R01-L3-B05	MU	Makeup	Ambient	R01	3	B05	560	Reserve	Expiring
+MU-R01-L3-B06	MU	Makeup	Ambient	R01	3	B06	560	Reserve	OK
+MU-R01-L4-B01	MU	Makeup	Ambient	R01	4	B01	560	Reserve	OK
+MU-R01-L4-B02	MU	Makeup	Ambient	R01	4	B02	560	Reserve	Expiring
+MU-R01-L4-B03	MU	Makeup	Ambient	R01	4	B03	560	Reserve	OK
+MU-R01-L4-B04	MU	Makeup	Ambient	R01	4	B04	560	Reserve	Expiring
+MU-R01-L4-B05	MU	Makeup	Ambient	R01	4	B05	560	Reserve	OK
+MU-R01-L4-B06	MU	Makeup	Ambient	R01	4	B06	560	Reserve	OK
+MU-R02-L3-B01	MU	Makeup	Ambient	R02	3	B01	560	Reserve	OK
+MU-R02-L3-B02	MU	Makeup	Ambient	R02	3	B02	560	Reserve	Expiring
+MU-R02-L3-B03	MU	Makeup	Ambient	R02	3	B03	560	Reserve	Expiring
+MU-R02-L3-B04	MU	Makeup	Ambient	R02	3	B04	560	Reserve	OK
+MU-R02-L3-B05	MU	Makeup	Ambient	R02	3	B05	560	Reserve	OK
+MU-R02-L3-B06	MU	Makeup	Ambient	R02	3	B06	560	Reserve	OK
+MU-R02-L4-B01	MU	Makeup	Ambient	R02	4	B01	560	Reserve	Empty
+MU-R02-L4-B02	MU	Makeup	Ambient	R02	4	B02	560	Reserve	OK
+MU-R02-L4-B03	MU	Makeup	Ambient	R02	4	B03	560	Reserve	OK
+MU-R02-L4-B04	MU	Makeup	Ambient	R02	4	B04	560	Reserve	OK
+MU-R02-L4-B05	MU	Makeup	Ambient	R02	4	B05	560	Reserve	OK
+MU-R02-L4-B06	MU	Makeup	Ambient	R02	4	B06	560	Reserve	OK
+MU-R03-L3-B01	MU	Makeup	Ambient	R03	3	B01	560	Reserve	OK
+MU-R03-L3-B02	MU	Makeup	Ambient	R03	3	B02	560	Reserve	OK
+MU-R03-L3-B03	MU	Makeup	Ambient	R03	3	B03	560	Reserve	Expiring
+MU-R03-L3-B04	MU	Makeup	Ambient	R03	3	B04	560	Reserve	OK
+MU-R03-L3-B05	MU	Makeup	Ambient	R03	3	B05	560	Reserve	OK
+MU-R03-L3-B06	MU	Makeup	Ambient	R03	3	B06	560	Reserve	Expiring
+MU-R03-L4-B01	MU	Makeup	Ambient	R03	4	B01	560	Reserve	OK
+MU-R03-L4-B02	MU	Makeup	Ambient	R03	4	B02	560	Reserve	OK
+MU-R03-L4-B03	MU	Makeup	Ambient	R03	4	B03	560	Reserve	Expiring
+MU-R03-L4-B04	MU	Makeup	Ambient	R03	4	B04	560	Reserve	OK
+MU-R03-L4-B05	MU	Makeup	Ambient	R03	4	B05	560	Reserve	Expired
+MU-R03-L4-B06	MU	Makeup	Ambient	R03	4	B06	560	Reserve	OK
+MU-R04-L3-B01	MU	Makeup	Ambient	R04	3	B01	560	Reserve	Empty
+MU-R04-L3-B02	MU	Makeup	Ambient	R04	3	B02	560	Reserve	Empty
+MU-R04-L3-B03	MU	Makeup	Ambient	R04	3	B03	560	Reserve	OK
+MU-R04-L3-B04	MU	Makeup	Ambient	R04	3	B04	560	Reserve	OK
+MU-R04-L3-B05	MU	Makeup	Ambient	R04	3	B05	560	Reserve	OK
+MU-R04-L3-B06	MU	Makeup	Ambient	R04	3	B06	560	Reserve	Empty
+MU-R04-L4-B01	MU	Makeup	Ambient	R04	4	B01	560	Reserve	OK
+MU-R04-L4-B02	MU	Makeup	Ambient	R04	4	B02	560	Reserve	Empty
+MU-R04-L4-B03	MU	Makeup	Ambient	R04	4	B03	560	Reserve	Expired
+MU-R04-L4-B04	MU	Makeup	Ambient	R04	4	B04	560	Reserve	OK
+MU-R04-L4-B05	MU	Makeup	Ambient	R04	4	B05	560	Reserve	OK
+MU-R04-L4-B06	MU	Makeup	Ambient	R04	4	B06	560	Reserve	Expiring
+MU-R05-L3-B01	MU	Makeup	Ambient	R05	3	B01	560	Reserve	Expiring
+MU-R05-L3-B02	MU	Makeup	Ambient	R05	3	B02	560	Reserve	OK
+MU-R05-L3-B03	MU	Makeup	Ambient	R05	3	B03	560	Reserve	Empty
+MU-R05-L3-B04	MU	Makeup	Ambient	R05	3	B04	560	Reserve	OK
+MU-R05-L3-B05	MU	Makeup	Ambient	R05	3	B05	560	Reserve	OK
+MU-R05-L3-B06	MU	Makeup	Ambient	R05	3	B06	560	Reserve	Empty
+MU-R05-L4-B01	MU	Makeup	Ambient	R05	4	B01	560	Reserve	OK
+MU-R05-L4-B02	MU	Makeup	Ambient	R05	4	B02	560	Reserve	Expiring
+MU-R05-L4-B03	MU	Makeup	Ambient	R05	4	B03	560	Reserve	OK
+MU-R05-L4-B04	MU	Makeup	Ambient	R05	4	B04	560	Reserve	OK
+MU-R05-L4-B05	MU	Makeup	Ambient	R05	4	B05	560	Reserve	OK
+MU-R05-L4-B06	MU	Makeup	Ambient	R05	4	B06	560	Reserve	Expiring
+MU-R06-L3-B01	MU	Makeup	Ambient	R06	3	B01	560	Reserve	Empty
+MU-R06-L3-B02	MU	Makeup	Ambient	R06	3	B02	560	Reserve	OK
+MU-R06-L3-B03	MU	Makeup	Ambient	R06	3	B03	560	Reserve	OK
+MU-R06-L3-B04	MU	Makeup	Ambient	R06	3	B04	560	Reserve	OK
+MU-R06-L3-B05	MU	Makeup	Ambient	R06	3	B05	560	Reserve	OK
+MU-R06-L3-B06	MU	Makeup	Ambient	R06	3	B06	560	Reserve	Expired
+MU-R06-L4-B01	MU	Makeup	Ambient	R06	4	B01	560	Reserve	OK
+MU-R06-L4-B02	MU	Makeup	Ambient	R06	4	B02	560	Reserve	OK
+MU-R06-L4-B03	MU	Makeup	Ambient	R06	4	B03	560	Reserve	Expired
+MU-R06-L4-B04	MU	Makeup	Ambient	R06	4	B04	560	Reserve	OK
+MU-R06-L4-B05	MU	Makeup	Ambient	R06	4	B05	560	Reserve	OK
+MU-R06-L4-B06	MU	Makeup	Ambient	R06	4	B06	560	Reserve	OK
+MU-R01-L1-B01	MU	Makeup	Ambient	R01	1	B01	700	Golden zone	OK
+MU-R01-L1-B02	MU	Makeup	Ambient	R01	1	B02	700	Golden zone	Empty
+MU-R01-L1-B03	MU	Makeup	Ambient	R01	1	B03	700	Golden zone	OK
+MU-R01-L1-B04	MU	Makeup	Ambient	R01	1	B04	700	Golden zone	OK
+MU-R01-L1-B05	MU	Makeup	Ambient	R01	1	B05	700	Golden zone	OK
+MU-R01-L1-B06	MU	Makeup	Ambient	R01	1	B06	700	Golden zone	OK
+MU-R01-L2-B01	MU	Makeup	Ambient	R01	2	B01	700	Golden zone	Expiring
+MU-R01-L2-B02	MU	Makeup	Ambient	R01	2	B02	700	Golden zone	OK
+MU-R01-L2-B03	MU	Makeup	Ambient	R01	2	B03	700	Golden zone	OK
+MU-R01-L2-B04	MU	Makeup	Ambient	R01	2	B04	700	Golden zone	OK
+MU-R01-L2-B05	MU	Makeup	Ambient	R01	2	B05	700	Golden zone	OK
+MU-R01-L2-B06	MU	Makeup	Ambient	R01	2	B06	700	Golden zone	Empty
+MU-R02-L1-B01	MU	Makeup	Ambient	R02	1	B01	700	Golden zone	OK
+MU-R02-L1-B02	MU	Makeup	Ambient	R02	1	B02	700	Golden zone	OK
+MU-R02-L1-B03	MU	Makeup	Ambient	R02	1	B03	700	Golden zone	OK
+MU-R02-L1-B04	MU	Makeup	Ambient	R02	1	B04	700	Golden zone	Empty
+MU-R02-L1-B05	MU	Makeup	Ambient	R02	1	B05	700	Golden zone	Expiring
+MU-R02-L1-B06	MU	Makeup	Ambient	R02	1	B06	700	Golden zone	Expiring
+MU-R02-L2-B01	MU	Makeup	Ambient	R02	2	B01	700	Golden zone	Empty
+MU-R02-L2-B02	MU	Makeup	Ambient	R02	2	B02	700	Golden zone	Expiring
+MU-R02-L2-B03	MU	Makeup	Ambient	R02	2	B03	700	Golden zone	OK
+MU-R02-L2-B04	MU	Makeup	Ambient	R02	2	B04	700	Golden zone	Expiring
+MU-R02-L2-B05	MU	Makeup	Ambient	R02	2	B05	700	Golden zone	OK
+MU-R02-L2-B06	MU	Makeup	Ambient	R02	2	B06	700	Golden zone	Expired
+MU-R03-L1-B01	MU	Makeup	Ambient	R03	1	B01	700	Golden zone	Expiring
+MU-R03-L1-B02	MU	Makeup	Ambient	R03	1	B02	700	Golden zone	Empty
+MU-R03-L1-B03	MU	Makeup	Ambient	R03	1	B03	700	Golden zone	Expired
+MU-R03-L1-B04	MU	Makeup	Ambient	R03	1	B04	700	Golden zone	OK
+MU-R03-L1-B05	MU	Makeup	Ambient	R03	1	B05	700	Golden zone	OK
+MU-R03-L1-B06	MU	Makeup	Ambient	R03	1	B06	700	Golden zone	Expired
+MU-R03-L2-B01	MU	Makeup	Ambient	R03	2	B01	700	Golden zone	Expiring
+MU-R03-L2-B02	MU	Makeup	Ambient	R03	2	B02	700	Golden zone	Expiring
+MU-R03-L2-B03	MU	Makeup	Ambient	R03	2	B03	700	Golden zone	OK
+MU-R03-L2-B04	MU	Makeup	Ambient	R03	2	B04	700	Golden zone	Empty
+MU-R03-L2-B05	MU	Makeup	Ambient	R03	2	B05	700	Golden zone	OK
+MU-R03-L2-B06	MU	Makeup	Ambient	R03	2	B06	700	Golden zone	Empty
+MU-R04-L1-B01	MU	Makeup	Ambient	R04	1	B01	700	Golden zone	OK
+MU-R04-L1-B02	MU	Makeup	Ambient	R04	1	B02	700	Golden zone	OK
+MU-R04-L1-B03	MU	Makeup	Ambient	R04	1	B03	700	Golden zone	OK
+MU-R04-L1-B04	MU	Makeup	Ambient	R04	1	B04	700	Golden zone	Expired
+MU-R04-L1-B05	MU	Makeup	Ambient	R04	1	B05	700	Golden zone	Expiring
+MU-R04-L1-B06	MU	Makeup	Ambient	R04	1	B06	700	Golden zone	OK
+MU-R04-L2-B01	MU	Makeup	Ambient	R04	2	B01	700	Golden zone	OK
+MU-R04-L2-B02	MU	Makeup	Ambient	R04	2	B02	700	Golden zone	OK
+MU-R04-L2-B03	MU	Makeup	Ambient	R04	2	B03	700	Golden zone	Expiring
+MU-R04-L2-B04	MU	Makeup	Ambient	R04	2	B04	700	Golden zone	OK
+MU-R04-L2-B05	MU	Makeup	Ambient	R04	2	B05	700	Golden zone	OK
+MU-R04-L2-B06	MU	Makeup	Ambient	R04	2	B06	700	Golden zone	OK
+MU-R05-L1-B01	MU	Makeup	Ambient	R05	1	B01	700	Golden zone	Empty
+MU-R05-L1-B02	MU	Makeup	Ambient	R05	1	B02	700	Golden zone	Empty
+MU-R05-L1-B03	MU	Makeup	Ambient	R05	1	B03	700	Golden zone	OK
+MU-R05-L1-B04	MU	Makeup	Ambient	R05	1	B04	700	Golden zone	OK
+MU-R05-L1-B05	MU	Makeup	Ambient	R05	1	B05	700	Golden zone	Empty
+MU-R05-L1-B06	MU	Makeup	Ambient	R05	1	B06	700	Golden zone	OK
+MU-R05-L2-B01	MU	Makeup	Ambient	R05	2	B01	700	Golden zone	OK
+MU-R05-L2-B02	MU	Makeup	Ambient	R05	2	B02	700	Golden zone	Expiring
+MU-R05-L2-B03	MU	Makeup	Ambient	R05	2	B03	700	Golden zone	OK
+MU-R05-L2-B04	MU	Makeup	Ambient	R05	2	B04	700	Golden zone	OK
+MU-R05-L2-B05	MU	Makeup	Ambient	R05	2	B05	700	Golden zone	OK
+MU-R05-L2-B06	MU	Makeup	Ambient	R05	2	B06	700	Golden zone	Expiring
+MU-R06-L1-B01	MU	Makeup	Ambient	R06	1	B01	700	Golden zone	OK
+MU-R06-L1-B02	MU	Makeup	Ambient	R06	1	B02	700	Golden zone	Empty
+MU-R06-L1-B03	MU	Makeup	Ambient	R06	1	B03	700	Golden zone	Expiring
+MU-R06-L1-B04	MU	Makeup	Ambient	R06	1	B04	700	Golden zone	OK
+MU-R06-L1-B05	MU	Makeup	Ambient	R06	1	B05	700	Golden zone	OK
+MU-R06-L1-B06	MU	Makeup	Ambient	R06	1	B06	700	Golden zone	OK
+MU-R06-L2-B01	MU	Makeup	Ambient	R06	2	B01	700	Golden zone	Expiring
+MU-R06-L2-B02	MU	Makeup	Ambient	R06	2	B02	700	Golden zone	OK
+MU-R06-L2-B03	MU	Makeup	Ambient	R06	2	B03	700	Golden zone	OK
+MU-R06-L2-B04	MU	Makeup	Ambient	R06	2	B04	700	Golden zone	OK
+MU-R06-L2-B05	MU	Makeup	Ambient	R06	2	B05	700	Golden zone	Expired
+MU-R06-L2-B06	MU	Makeup	Ambient	R06	2	B06	700	Golden zone	OK
+HC-R01-L1-B01	HC	Haircare	Ambient	R01	1	B01	1000	Golden zone	OK
+HC-R01-L1-B02	HC	Haircare	Ambient	R01	1	B02	1000	Golden zone	OK
+HC-R01-L1-B03	HC	Haircare	Ambient	R01	1	B03	1000	Golden zone	OK
+HC-R01-L1-B04	HC	Haircare	Ambient	R01	1	B04	1000	Golden zone	OK
+HC-R01-L1-B05	HC	Haircare	Ambient	R01	1	B05	1000	Golden zone	OK
+HC-R01-L1-B06	HC	Haircare	Ambient	R01	1	B06	1000	Golden zone	OK
+HC-R01-L2-B01	HC	Haircare	Ambient	R01	2	B01	1000	Golden zone	Empty
+HC-R01-L2-B02	HC	Haircare	Ambient	R01	2	B02	1000	Golden zone	OK
+HC-R01-L2-B03	HC	Haircare	Ambient	R01	2	B03	1000	Golden zone	OK
+HC-R01-L2-B04	HC	Haircare	Ambient	R01	2	B04	1000	Golden zone	OK
+HC-R01-L2-B05	HC	Haircare	Ambient	R01	2	B05	1000	Golden zone	Empty
+HC-R01-L2-B06	HC	Haircare	Ambient	R01	2	B06	1000	Golden zone	Empty
+HC-R02-L1-B01	HC	Haircare	Ambient	R02	1	B01	1000	Golden zone	Empty
+HC-R02-L1-B02	HC	Haircare	Ambient	R02	1	B02	1000	Golden zone	OK
+HC-R02-L1-B03	HC	Haircare	Ambient	R02	1	B03	1000	Golden zone	OK
+HC-R02-L1-B04	HC	Haircare	Ambient	R02	1	B04	1000	Golden zone	OK
+HC-R02-L1-B05	HC	Haircare	Ambient	R02	1	B05	1000	Golden zone	Empty
+HC-R02-L1-B06	HC	Haircare	Ambient	R02	1	B06	1000	Golden zone	OK
+HC-R02-L2-B01	HC	Haircare	Ambient	R02	2	B01	1000	Golden zone	OK
+HC-R02-L2-B02	HC	Haircare	Ambient	R02	2	B02	1000	Golden zone	OK
+HC-R02-L2-B03	HC	Haircare	Ambient	R02	2	B03	1000	Golden zone	OK
+HC-R02-L2-B04	HC	Haircare	Ambient	R02	2	B04	1000	Golden zone	OK
+HC-R02-L2-B05	HC	Haircare	Ambient	R02	2	B05	1000	Golden zone	OK
+HC-R02-L2-B06	HC	Haircare	Ambient	R02	2	B06	1000	Golden zone	OK
+HC-R03-L1-B01	HC	Haircare	Ambient	R03	1	B01	1000	Golden zone	Empty
+HC-R03-L1-B02	HC	Haircare	Ambient	R03	1	B02	1000	Golden zone	OK
+HC-R03-L1-B03	HC	Haircare	Ambient	R03	1	B03	1000	Golden zone	OK
+HC-R03-L1-B04	HC	Haircare	Ambient	R03	1	B04	1000	Golden zone	OK
+HC-R03-L1-B05	HC	Haircare	Ambient	R03	1	B05	1000	Golden zone	OK
+HC-R03-L1-B06	HC	Haircare	Ambient	R03	1	B06	1000	Golden zone	OK
+HC-R03-L2-B01	HC	Haircare	Ambient	R03	2	B01	1000	Golden zone	Empty
+HC-R03-L2-B02	HC	Haircare	Ambient	R03	2	B02	1000	Golden zone	OK
+HC-R03-L2-B03	HC	Haircare	Ambient	R03	2	B03	1000	Golden zone	OK
+HC-R03-L2-B04	HC	Haircare	Ambient	R03	2	B04	1000	Golden zone	OK
+HC-R03-L2-B05	HC	Haircare	Ambient	R03	2	B05	1000	Golden zone	Empty
+HC-R03-L2-B06	HC	Haircare	Ambient	R03	2	B06	1000	Golden zone	OK
+HC-R04-L1-B01	HC	Haircare	Ambient	R04	1	B01	1000	Golden zone	OK
+HC-R04-L1-B02	HC	Haircare	Ambient	R04	1	B02	1000	Golden zone	OK
+HC-R04-L1-B03	HC	Haircare	Ambient	R04	1	B03	1000	Golden zone	OK
+HC-R04-L1-B04	HC	Haircare	Ambient	R04	1	B04	1000	Golden zone	OK
+HC-R04-L1-B05	HC	Haircare	Ambient	R04	1	B05	1000	Golden zone	OK
+HC-R04-L1-B06	HC	Haircare	Ambient	R04	1	B06	1000	Golden zone	OK
+HC-R04-L2-B01	HC	Haircare	Ambient	R04	2	B01	1000	Golden zone	OK
+HC-R04-L2-B02	HC	Haircare	Ambient	R04	2	B02	1000	Golden zone	OK
+HC-R04-L2-B03	HC	Haircare	Ambient	R04	2	B03	1000	Golden zone	OK
+HC-R04-L2-B04	HC	Haircare	Ambient	R04	2	B04	1000	Golden zone	OK
+HC-R04-L2-B05	HC	Haircare	Ambient	R04	2	B05	1000	Golden zone	OK
+HC-R04-L2-B06	HC	Haircare	Ambient	R04	2	B06	1000	Golden zone	OK
+BB-R01-L3-B01	BB	Bath & Body	Ambient	R01	3	B01	640	Reserve	Empty
+BB-R01-L3-B02	BB	Bath & Body	Ambient	R01	3	B02	640	Reserve	OK
+BB-R01-L3-B03	BB	Bath & Body	Ambient	R01	3	B03	640	Reserve	OK
+BB-R01-L3-B04	BB	Bath & Body	Ambient	R01	3	B04	640	Reserve	OK
+BB-R01-L3-B05	BB	Bath & Body	Ambient	R01	3	B05	640	Reserve	OK
+BB-R01-L3-B06	BB	Bath & Body	Ambient	R01	3	B06	640	Reserve	OK
+BB-R01-L4-B01	BB	Bath & Body	Ambient	R01	4	B01	640	Reserve	Empty
+BB-R01-L4-B02	BB	Bath & Body	Ambient	R01	4	B02	640	Reserve	OK
+BB-R01-L4-B03	BB	Bath & Body	Ambient	R01	4	B03	640	Reserve	OK
+BB-R01-L4-B04	BB	Bath & Body	Ambient	R01	4	B04	640	Reserve	OK
+BB-R01-L4-B05	BB	Bath & Body	Ambient	R01	4	B05	640	Reserve	OK
+BB-R01-L4-B06	BB	Bath & Body	Ambient	R01	4	B06	640	Reserve	OK
+BB-R02-L3-B01	BB	Bath & Body	Ambient	R02	3	B01	640	Reserve	OK
+BB-R02-L3-B02	BB	Bath & Body	Ambient	R02	3	B02	640	Reserve	OK
+BB-R02-L3-B03	BB	Bath & Body	Ambient	R02	3	B03	640	Reserve	OK
+BB-R02-L3-B04	BB	Bath & Body	Ambient	R02	3	B04	640	Reserve	OK
+BB-R02-L3-B05	BB	Bath & Body	Ambient	R02	3	B05	640	Reserve	OK
+BB-R02-L3-B06	BB	Bath & Body	Ambient	R02	3	B06	640	Reserve	OK
+BB-R02-L4-B01	BB	Bath & Body	Ambient	R02	4	B01	640	Reserve	OK
+BB-R02-L4-B02	BB	Bath & Body	Ambient	R02	4	B02	640	Reserve	OK
+BB-R02-L4-B03	BB	Bath & Body	Ambient	R02	4	B03	640	Reserve	OK
+BB-R02-L4-B04	BB	Bath & Body	Ambient	R02	4	B04	640	Reserve	OK
+BB-R02-L4-B05	BB	Bath & Body	Ambient	R02	4	B05	640	Reserve	OK
+BB-R02-L4-B06	BB	Bath & Body	Ambient	R02	4	B06	640	Reserve	OK
+BB-R03-L3-B01	BB	Bath & Body	Ambient	R03	3	B01	640	Reserve	OK
+BB-R03-L3-B02	BB	Bath & Body	Ambient	R03	3	B02	640	Reserve	OK
+BB-R03-L3-B03	BB	Bath & Body	Ambient	R03	3	B03	640	Reserve	OK
+BB-R03-L3-B04	BB	Bath & Body	Ambient	R03	3	B04	640	Reserve	Empty
+BB-R03-L3-B05	BB	Bath & Body	Ambient	R03	3	B05	640	Reserve	OK
+BB-R03-L3-B06	BB	Bath & Body	Ambient	R03	3	B06	640	Reserve	Empty
+BB-R03-L4-B01	BB	Bath & Body	Ambient	R03	4	B01	640	Reserve	Empty
+BB-R03-L4-B02	BB	Bath & Body	Ambient	R03	4	B02	640	Reserve	OK
+BB-R03-L4-B03	BB	Bath & Body	Ambient	R03	4	B03	640	Reserve	OK
+BB-R03-L4-B04	BB	Bath & Body	Ambient	R03	4	B04	640	Reserve	OK
+BB-R03-L4-B05	BB	Bath & Body	Ambient	R03	4	B05	640	Reserve	OK
+BB-R03-L4-B06	BB	Bath & Body	Ambient	R03	4	B06	640	Reserve	OK
+HC-R01-L3-B01	HC	Haircare	Ambient	R01	3	B01	800	Reserve	OK
+HC-R01-L3-B02	HC	Haircare	Ambient	R01	3	B02	800	Reserve	OK
+HC-R01-L3-B03	HC	Haircare	Ambient	R01	3	B03	800	Reserve	OK
+HC-R01-L3-B04	HC	Haircare	Ambient	R01	3	B04	800	Reserve	OK
+HC-R01-L3-B05	HC	Haircare	Ambient	R01	3	B05	800	Reserve	OK
+HC-R01-L3-B06	HC	Haircare	Ambient	R01	3	B06	800	Reserve	OK
+HC-R01-L4-B01	HC	Haircare	Ambient	R01	4	B01	800	Reserve	OK
+HC-R01-L4-B02	HC	Haircare	Ambient	R01	4	B02	800	Reserve	OK
+HC-R01-L4-B03	HC	Haircare	Ambient	R01	4	B03	800	Reserve	OK
+HC-R01-L4-B04	HC	Haircare	Ambient	R01	4	B04	800	Reserve	Empty
+HC-R01-L4-B05	HC	Haircare	Ambient	R01	4	B05	800	Reserve	OK
+HC-R01-L4-B06	HC	Haircare	Ambient	R01	4	B06	800	Reserve	OK
+HC-R02-L3-B01	HC	Haircare	Ambient	R02	3	B01	800	Reserve	OK
+HC-R02-L3-B02	HC	Haircare	Ambient	R02	3	B02	800	Reserve	OK
+HC-R02-L3-B03	HC	Haircare	Ambient	R02	3	B03	800	Reserve	OK
+HC-R02-L3-B04	HC	Haircare	Ambient	R02	3	B04	800	Reserve	OK
+HC-R02-L3-B05	HC	Haircare	Ambient	R02	3	B05	800	Reserve	OK
+HC-R02-L3-B06	HC	Haircare	Ambient	R02	3	B06	800	Reserve	OK
+HC-R02-L4-B01	HC	Haircare	Ambient	R02	4	B01	800	Reserve	OK
+HC-R02-L4-B02	HC	Haircare	Ambient	R02	4	B02	800	Reserve	OK
+HC-R02-L4-B03	HC	Haircare	Ambient	R02	4	B03	800	Reserve	OK
+HC-R02-L4-B04	HC	Haircare	Ambient	R02	4	B04	800	Reserve	OK
+HC-R02-L4-B05	HC	Haircare	Ambient	R02	4	B05	800	Reserve	OK
+HC-R02-L4-B06	HC	Haircare	Ambient	R02	4	B06	800	Reserve	Empty
+HC-R03-L3-B01	HC	Haircare	Ambient	R03	3	B01	800	Reserve	OK
+HC-R03-L3-B02	HC	Haircare	Ambient	R03	3	B02	800	Reserve	Empty
+HC-R03-L3-B03	HC	Haircare	Ambient	R03	3	B03	800	Reserve	OK
+HC-R03-L3-B04	HC	Haircare	Ambient	R03	3	B04	800	Reserve	Empty
+HC-R03-L3-B05	HC	Haircare	Ambient	R03	3	B05	800	Reserve	OK
+HC-R03-L3-B06	HC	Haircare	Ambient	R03	3	B06	800	Reserve	OK
+HC-R03-L4-B01	HC	Haircare	Ambient	R03	4	B01	800	Reserve	OK
+HC-R03-L4-B02	HC	Haircare	Ambient	R03	4	B02	800	Reserve	OK
+HC-R03-L4-B03	HC	Haircare	Ambient	R03	4	B03	800	Reserve	Empty
+HC-R03-L4-B04	HC	Haircare	Ambient	R03	4	B04	800	Reserve	OK
+HC-R03-L4-B05	HC	Haircare	Ambient	R03	4	B05	800	Reserve	OK
+HC-R03-L4-B06	HC	Haircare	Ambient	R03	4	B06	800	Reserve	OK
+HC-R04-L3-B01	HC	Haircare	Ambient	R04	3	B01	800	Reserve	OK
+HC-R04-L3-B02	HC	Haircare	Ambient	R04	3	B02	800	Reserve	OK
+HC-R04-L3-B03	HC	Haircare	Ambient	R04	3	B03	800	Reserve	OK
+HC-R04-L3-B04	HC	Haircare	Ambient	R04	3	B04	800	Reserve	OK
+HC-R04-L3-B05	HC	Haircare	Ambient	R04	3	B05	800	Reserve	OK
+HC-R04-L3-B06	HC	Haircare	Ambient	R04	3	B06	800	Reserve	OK
+HC-R04-L4-B01	HC	Haircare	Ambient	R04	4	B01	800	Reserve	OK
+HC-R04-L4-B02	HC	Haircare	Ambient	R04	4	B02	800	Reserve	OK
+HC-R04-L4-B03	HC	Haircare	Ambient	R04	4	B03	800	Reserve	OK
+HC-R04-L4-B04	HC	Haircare	Ambient	R04	4	B04	800	Reserve	OK
+HC-R04-L4-B05	HC	Haircare	Ambient	R04	4	B05	800	Reserve	OK
+HC-R04-L4-B06	HC	Haircare	Ambient	R04	4	B06	800	Reserve	OK
+BB-R01-L1-B01	BB	Bath & Body	Ambient	R01	1	B01	800	Golden zone	OK
+BB-R01-L1-B02	BB	Bath & Body	Ambient	R01	1	B02	800	Golden zone	OK
+BB-R01-L1-B03	BB	Bath & Body	Ambient	R01	1	B03	800	Golden zone	OK
+BB-R01-L1-B04	BB	Bath & Body	Ambient	R01	1	B04	800	Golden zone	OK
+BB-R01-L1-B05	BB	Bath & Body	Ambient	R01	1	B05	800	Golden zone	OK
+BB-R01-L1-B06	BB	Bath & Body	Ambient	R01	1	B06	800	Golden zone	OK
+BB-R01-L2-B01	BB	Bath & Body	Ambient	R01	2	B01	800	Golden zone	OK
+BB-R01-L2-B02	BB	Bath & Body	Ambient	R01	2	B02	800	Golden zone	OK
+BB-R01-L2-B03	BB	Bath & Body	Ambient	R01	2	B03	800	Golden zone	OK
+BB-R01-L2-B04	BB	Bath & Body	Ambient	R01	2	B04	800	Golden zone	OK
+BB-R01-L2-B05	BB	Bath & Body	Ambient	R01	2	B05	800	Golden zone	OK
+BB-R01-L2-B06	BB	Bath & Body	Ambient	R01	2	B06	800	Golden zone	Empty
+BB-R02-L1-B01	BB	Bath & Body	Ambient	R02	1	B01	800	Golden zone	OK
+BB-R02-L1-B02	BB	Bath & Body	Ambient	R02	1	B02	800	Golden zone	Empty
+BB-R02-L1-B03	BB	Bath & Body	Ambient	R02	1	B03	800	Golden zone	OK
+BB-R02-L1-B04	BB	Bath & Body	Ambient	R02	1	B04	800	Golden zone	OK
+BB-R02-L1-B05	BB	Bath & Body	Ambient	R02	1	B05	800	Golden zone	OK
+BB-R02-L1-B06	BB	Bath & Body	Ambient	R02	1	B06	800	Golden zone	OK
+BB-R02-L2-B01	BB	Bath & Body	Ambient	R02	2	B01	800	Golden zone	OK
+BB-R02-L2-B02	BB	Bath & Body	Ambient	R02	2	B02	800	Golden zone	OK
+BB-R02-L2-B03	BB	Bath & Body	Ambient	R02	2	B03	800	Golden zone	OK
+BB-R02-L2-B04	BB	Bath & Body	Ambient	R02	2	B04	800	Golden zone	OK
+BB-R02-L2-B05	BB	Bath & Body	Ambient	R02	2	B05	800	Golden zone	OK
+BB-R02-L2-B06	BB	Bath & Body	Ambient	R02	2	B06	800	Golden zone	OK
+BB-R03-L1-B01	BB	Bath & Body	Ambient	R03	1	B01	800	Golden zone	OK
+BB-R03-L1-B02	BB	Bath & Body	Ambient	R03	1	B02	800	Golden zone	OK
+BB-R03-L1-B03	BB	Bath & Body	Ambient	R03	1	B03	800	Golden zone	OK
+BB-R03-L1-B04	BB	Bath & Body	Ambient	R03	1	B04	800	Golden zone	OK
+BB-R03-L1-B05	BB	Bath & Body	Ambient	R03	1	B05	800	Golden zone	OK
+BB-R03-L1-B06	BB	Bath & Body	Ambient	R03	1	B06	800	Golden zone	OK
+BB-R03-L2-B01	BB	Bath & Body	Ambient	R03	2	B01	800	Golden zone	Empty
+BB-R03-L2-B02	BB	Bath & Body	Ambient	R03	2	B02	800	Golden zone	OK
+BB-R03-L2-B03	BB	Bath & Body	Ambient	R03	2	B03	800	Golden zone	OK
+BB-R03-L2-B04	BB	Bath & Body	Ambient	R03	2	B04	800	Golden zone	Empty
+BB-R03-L2-B05	BB	Bath & Body	Ambient	R03	2	B05	800	Golden zone	OK
+BB-R03-L2-B06	BB	Bath & Body	Ambient	R03	2	B06	800	Golden zone	OK
+RT-R01-L1-B01	RT	Returns & QC	Quarantine	R01	1	B01	200	Golden zone	OK
+RT-R01-L1-B02	RT	Returns & QC	Quarantine	R01	1	B02	200	Golden zone	Expired
+RT-R01-L1-B03	RT	Returns & QC	Quarantine	R01	1	B03	200	Golden zone	Empty
+RT-R01-L1-B04	RT	Returns & QC	Quarantine	R01	1	B04	200	Golden zone	Expiring
+RT-R01-L1-B05	RT	Returns & QC	Quarantine	R01	1	B05	200	Golden zone	OK
+RT-R01-L1-B06	RT	Returns & QC	Quarantine	R01	1	B06	200	Golden zone	Empty
+RT-R01-L2-B01	RT	Returns & QC	Quarantine	R01	2	B01	200	Golden zone	OK
+RT-R01-L2-B02	RT	Returns & QC	Quarantine	R01	2	B02	200	Golden zone	OK
+RT-R01-L2-B03	RT	Returns & QC	Quarantine	R01	2	B03	200	Golden zone	Expired
+RT-R01-L2-B04	RT	Returns & QC	Quarantine	R01	2	B04	200	Golden zone	Empty
+RT-R01-L2-B05	RT	Returns & QC	Quarantine	R01	2	B05	200	Golden zone	Empty
+RT-R01-L2-B06	RT	Returns & QC	Quarantine	R01	2	B06	200	Golden zone	Expiring
+RT-R01-L3-B01	RT	Returns & QC	Quarantine	R01	3	B01	160	Reserve	OK
+RT-R01-L3-B02	RT	Returns & QC	Quarantine	R01	3	B02	160	Reserve	Expiring
+RT-R01-L3-B03	RT	Returns & QC	Quarantine	R01	3	B03	160	Reserve	Empty
+RT-R01-L3-B04	RT	Returns & QC	Quarantine	R01	3	B04	160	Reserve	OK
+RT-R01-L3-B05	RT	Returns & QC	Quarantine	R01	3	B05	160	Reserve	Expiring
+RT-R01-L3-B06	RT	Returns & QC	Quarantine	R01	3	B06	160	Reserve	Expired
+RT-R01-L4-B01	RT	Returns & QC	Quarantine	R01	4	B01	160	Reserve	Empty
+RT-R01-L4-B02	RT	Returns & QC	Quarantine	R01	4	B02	160	Reserve	Empty
+RT-R01-L4-B03	RT	Returns & QC	Quarantine	R01	4	B03	160	Reserve	Expiring
+RT-R01-L4-B04	RT	Returns & QC	Quarantine	R01	4	B04	160	Reserve	Empty
+RT-R01-L4-B05	RT	Returns & QC	Quarantine	R01	4	B05	160	Reserve	Expiring
+RT-R01-L4-B06	RT	Returns & QC	Quarantine	R01	4	B06	160	Reserve	Empty
+RT-R02-L1-B01	RT	Returns & QC	Quarantine	R02	1	B01	200	Golden zone	Empty
+RT-R02-L1-B02	RT	Returns & QC	Quarantine	R02	1	B02	200	Golden zone	Expired
+RT-R02-L1-B03	RT	Returns & QC	Quarantine	R02	1	B03	200	Golden zone	Expiring
+RT-R02-L1-B04	RT	Returns & QC	Quarantine	R02	1	B04	200	Golden zone	OK
+RT-R02-L1-B05	RT	Returns & QC	Quarantine	R02	1	B05	200	Golden zone	Empty
+RT-R02-L1-B06	RT	Returns & QC	Quarantine	R02	1	B06	200	Golden zone	Empty
+RT-R02-L2-B01	RT	Returns & QC	Quarantine	R02	2	B01	200	Golden zone	Expired
+RT-R02-L2-B02	RT	Returns & QC	Quarantine	R02	2	B02	200	Golden zone	Empty
+RT-R02-L2-B03	RT	Returns & QC	Quarantine	R02	2	B03	200	Golden zone	Empty
+RT-R02-L2-B04	RT	Returns & QC	Quarantine	R02	2	B04	200	Golden zone	OK
+RT-R02-L2-B05	RT	Returns & QC	Quarantine	R02	2	B05	200	Golden zone	Empty
+RT-R02-L2-B06	RT	Returns & QC	Quarantine	R02	2	B06	200	Golden zone	Expired
+RT-R02-L3-B01	RT	Returns & QC	Quarantine	R02	3	B01	160	Reserve	Empty
+RT-R02-L3-B02	RT	Returns & QC	Quarantine	R02	3	B02	160	Reserve	OK
+RT-R02-L3-B03	RT	Returns & QC	Quarantine	R02	3	B03	160	Reserve	Expiring
+RT-R02-L3-B04	RT	Returns & QC	Quarantine	R02	3	B04	160	Reserve	Expired
+RT-R02-L3-B05	RT	Returns & QC	Quarantine	R02	3	B05	160	Reserve	Empty
+RT-R02-L3-B06	RT	Returns & QC	Quarantine	R02	3	B06	160	Reserve	Empty
+RT-R02-L4-B01	RT	Returns & QC	Quarantine	R02	4	B01	160	Reserve	Expired
+RT-R02-L4-B02	RT	Returns & QC	Quarantine	R02	4	B02	160	Reserve	OK
+RT-R02-L4-B03	RT	Returns & QC	Quarantine	R02	4	B03	160	Reserve	OK
+RT-R02-L4-B04	RT	Returns & QC	Quarantine	R02	4	B04	160	Reserve	OK
+RT-R02-L4-B05	RT	Returns & QC	Quarantine	R02	4	B05	160	Reserve	OK
+RT-R02-L4-B06	RT	Returns & QC	Quarantine	R02	4	B06	160	Reserve	Expiring
+FR-R01-L1-B01	FR	Fragrance	Fragile	R01	1	B01	300	Golden zone	Empty
+FR-R01-L1-B02	FR	Fragrance	Fragile	R01	1	B02	300	Golden zone	OK
+FR-R01-L1-B03	FR	Fragrance	Fragile	R01	1	B03	300	Golden zone	OK
+FR-R01-L1-B04	FR	Fragrance	Fragile	R01	1	B04	300	Golden zone	OK
+FR-R01-L1-B05	FR	Fragrance	Fragile	R01	1	B05	300	Golden zone	Empty
+FR-R01-L1-B06	FR	Fragrance	Fragile	R01	1	B06	300	Golden zone	OK
+FR-R01-L2-B01	FR	Fragrance	Fragile	R01	2	B01	300	Golden zone	OK
+FR-R01-L2-B02	FR	Fragrance	Fragile	R01	2	B02	300	Golden zone	OK
+FR-R01-L2-B03	FR	Fragrance	Fragile	R01	2	B03	300	Golden zone	OK
+FR-R01-L2-B04	FR	Fragrance	Fragile	R01	2	B04	300	Golden zone	OK
+FR-R01-L2-B05	FR	Fragrance	Fragile	R01	2	B05	300	Golden zone	OK
+FR-R01-L2-B06	FR	Fragrance	Fragile	R01	2	B06	300	Golden zone	OK
+FR-R01-L3-B01	FR	Fragrance	Fragile	R01	3	B01	240	Reserve	OK
+FR-R01-L3-B02	FR	Fragrance	Fragile	R01	3	B02	240	Reserve	OK
+FR-R01-L3-B03	FR	Fragrance	Fragile	R01	3	B03	240	Reserve	Empty
+FR-R01-L3-B04	FR	Fragrance	Fragile	R01	3	B04	240	Reserve	OK
+FR-R01-L3-B05	FR	Fragrance	Fragile	R01	3	B05	240	Reserve	OK
+FR-R01-L3-B06	FR	Fragrance	Fragile	R01	3	B06	240	Reserve	OK
+FR-R01-L4-B01	FR	Fragrance	Fragile	R01	4	B01	240	Reserve	OK
+FR-R01-L4-B02	FR	Fragrance	Fragile	R01	4	B02	240	Reserve	OK
+FR-R01-L4-B03	FR	Fragrance	Fragile	R01	4	B03	240	Reserve	OK
+FR-R01-L4-B04	FR	Fragrance	Fragile	R01	4	B04	240	Reserve	OK
+FR-R01-L4-B05	FR	Fragrance	Fragile	R01	4	B05	240	Reserve	OK
+FR-R01-L4-B06	FR	Fragrance	Fragile	R01	4	B06	240	Reserve	Empty
+FR-R02-L1-B01	FR	Fragrance	Fragile	R02	1	B01	300	Golden zone	OK
+FR-R02-L1-B02	FR	Fragrance	Fragile	R02	1	B02	300	Golden zone	OK
+FR-R02-L1-B03	FR	Fragrance	Fragile	R02	1	B03	300	Golden zone	OK
+FR-R02-L1-B04	FR	Fragrance	Fragile	R02	1	B04	300	Golden zone	Empty
+FR-R02-L1-B05	FR	Fragrance	Fragile	R02	1	B05	300	Golden zone	OK
+FR-R02-L1-B06	FR	Fragrance	Fragile	R02	1	B06	300	Golden zone	OK
+FR-R02-L2-B01	FR	Fragrance	Fragile	R02	2	B01	300	Golden zone	OK
+FR-R02-L2-B02	FR	Fragrance	Fragile	R02	2	B02	300	Golden zone	OK
+FR-R02-L2-B03	FR	Fragrance	Fragile	R02	2	B03	300	Golden zone	OK
+FR-R02-L2-B04	FR	Fragrance	Fragile	R02	2	B04	300	Golden zone	OK
+FR-R02-L2-B05	FR	Fragrance	Fragile	R02	2	B05	300	Golden zone	Empty
+FR-R02-L2-B06	FR	Fragrance	Fragile	R02	2	B06	300	Golden zone	OK
+FR-R02-L3-B01	FR	Fragrance	Fragile	R02	3	B01	240	Reserve	OK
+FR-R02-L3-B02	FR	Fragrance	Fragile	R02	3	B02	240	Reserve	OK
+FR-R02-L3-B03	FR	Fragrance	Fragile	R02	3	B03	240	Reserve	Empty
+FR-R02-L3-B04	FR	Fragrance	Fragile	R02	3	B04	240	Reserve	Empty
+FR-R02-L3-B05	FR	Fragrance	Fragile	R02	3	B05	240	Reserve	OK
+FR-R02-L3-B06	FR	Fragrance	Fragile	R02	3	B06	240	Reserve	OK
+FR-R02-L4-B01	FR	Fragrance	Fragile	R02	4	B01	240	Reserve	OK
+FR-R02-L4-B02	FR	Fragrance	Fragile	R02	4	B02	240	Reserve	OK
+FR-R02-L4-B03	FR	Fragrance	Fragile	R02	4	B03	240	Reserve	OK
+FR-R02-L4-B04	FR	Fragrance	Fragile	R02	4	B04	240	Reserve	OK
+FR-R02-L4-B05	FR	Fragrance	Fragile	R02	4	B05	240	Reserve	OK
+FR-R02-L4-B06	FR	Fragrance	Fragile	R02	4	B06	240	Reserve	OK
+FR-R03-L1-B01	FR	Fragrance	Fragile	R03	1	B01	300	Golden zone	OK
+FR-R03-L1-B02	FR	Fragrance	Fragile	R03	1	B02	300	Golden zone	Empty
+FR-R03-L1-B03	FR	Fragrance	Fragile	R03	1	B03	300	Golden zone	OK
+FR-R03-L1-B04	FR	Fragrance	Fragile	R03	1	B04	300	Golden zone	OK
+FR-R03-L1-B05	FR	Fragrance	Fragile	R03	1	B05	300	Golden zone	OK
+FR-R03-L1-B06	FR	Fragrance	Fragile	R03	1	B06	300	Golden zone	OK
+FR-R03-L2-B01	FR	Fragrance	Fragile	R03	2	B01	300	Golden zone	OK
+FR-R03-L2-B02	FR	Fragrance	Fragile	R03	2	B02	300	Golden zone	OK
+FR-R03-L2-B03	FR	Fragrance	Fragile	R03	2	B03	300	Golden zone	OK
+FR-R03-L2-B04	FR	Fragrance	Fragile	R03	2	B04	300	Golden zone	Empty
+FR-R03-L2-B05	FR	Fragrance	Fragile	R03	2	B05	300	Golden zone	Empty
+FR-R03-L2-B06	FR	Fragrance	Fragile	R03	2	B06	300	Golden zone	OK
+FR-R03-L3-B01	FR	Fragrance	Fragile	R03	3	B01	240	Reserve	OK
+FR-R03-L3-B02	FR	Fragrance	Fragile	R03	3	B02	240	Reserve	OK
+FR-R03-L3-B03	FR	Fragrance	Fragile	R03	3	B03	240	Reserve	OK
+FR-R03-L3-B04	FR	Fragrance	Fragile	R03	3	B04	240	Reserve	OK
+FR-R03-L3-B05	FR	Fragrance	Fragile	R03	3	B05	240	Reserve	OK
+FR-R03-L3-B06	FR	Fragrance	Fragile	R03	3	B06	240	Reserve	OK
+FR-R03-L4-B01	FR	Fragrance	Fragile	R03	4	B01	240	Reserve	OK
+FR-R03-L4-B02	FR	Fragrance	Fragile	R03	4	B02	240	Reserve	OK
+FR-R03-L4-B03	FR	Fragrance	Fragile	R03	4	B03	240	Reserve	OK
+FR-R03-L4-B04	FR	Fragrance	Fragile	R03	4	B04	240	Reserve	OK
+FR-R03-L4-B05	FR	Fragrance	Fragile	R03	4	B05	240	Reserve	OK
+FR-R03-L4-B06	FR	Fragrance	Fragile	R03	4	B06	240	Reserve	OK
