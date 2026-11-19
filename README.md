@@ -1,4 +1,6 @@
 # nykaa-warehouse-3d-dashboard
+# Nykaa Warehouse 3D Dashboard
+
 
 An interactive Power BI dashboard that shows a whole warehouse in 3D. Every storage bin is colored by its status and responds to slicers, so you can see which bins are healthy, empty, expiring or expired at a glance.
 
